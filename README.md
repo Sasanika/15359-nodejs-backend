@@ -1,4 +1,4 @@
-# Node.js Backend Project
+# Simple Node.js Backend Project
 
 ## Overview
 This project demonstrates a simple Node.js backend using the Express.js framework. The project sets up a basic "Hello World" application.
